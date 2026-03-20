@@ -25,7 +25,7 @@ Berikut adalah tampilan aplikasi dalam berbagai kondisi:
 
 | Light Mode        | Dark Mode          | Fitur Reactive (Editing) |
 |-------------------|--------------------|-------------------------|
-| ![Light]<img width="1080" height="2400" alt="Screenshot_20260320_203628" src="https://github.com/user-attachments/assets/b826d605-d05e-4f77-ae17-5dabb5d56c8f" />| ![Dark]<img width="1080" height="2400" alt="Screenshot_20260320_203609" src="https://github.com/user-attachments/assets/a64c8d81-1405-457e-9578-88e8b43cd928" />| ![Edit]<img width="1080" height="2400" alt="Screenshot_20260320_203621" src="https://github.com/user-attachments/assets/eee792d3-ed2c-4ef0-aab9-f03b6ad63ae5" />|
+| <img width="1080" height="2400" alt="Screenshot_20260320_203628" src="https://github.com/user-attachments/assets/b826d605-d05e-4f77-ae17-5dabb5d56c8f" />| <img width="1080" height="2400" alt="Screenshot_20260320_203609" src="https://github.com/user-attachments/assets/a64c8d81-1405-457e-9578-88e8b43cd928" />| <img width="1080" height="2400" alt="Screenshot_20260320_203621" src="https://github.com/user-attachments/assets/eee792d3-ed2c-4ef0-aab9-f03b6ad63ae5" />|
 
 ---
 **Developed by:** Gian Ivander  
